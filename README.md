@@ -1,5 +1,5 @@
 # Help with github
-This is my github playground.
+This is my **github** *playground*.
 
 What can we do:
 - A new github repo
